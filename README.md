@@ -3,4 +3,4 @@ Testing out git proxy
 Discovering new features
 Looking for plugins
 Testing plugins
-Debugging plugin...
+Debugging plugin
