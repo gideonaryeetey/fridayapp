@@ -8,3 +8,5 @@ Debugging plugin behaviour... 1
 
 
 Testing push with github actions locally!
+
+testing status check and merge in main
