@@ -1,3 +1,3 @@
-// LET's BEGIN TRANSACTIONs	
+// LET us BEGIN TRANSACTIONs	
 console.log("Welcome");
 // just an empty file
